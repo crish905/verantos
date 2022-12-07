@@ -14,7 +14,7 @@
     "sinon": "^2.1.0"
   },
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "react": "^15.5.3",
     "react-datepicker": "^0.44.0",
     "react-dom": "^15.5.3",
